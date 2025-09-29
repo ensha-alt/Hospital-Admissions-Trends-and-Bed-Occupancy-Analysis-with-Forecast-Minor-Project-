@@ -1,9 +1,9 @@
-🏥 Hospital Admissions & Bed Occupancy Analytics
-📌 Overview
+🏥 Hospital Admissions Trends & Bed Occupancy Analysis with Forecast
+📌 Overview:
 
 Minor project using a synthetic hospital dataset to analyze admissions, bed occupancy, stay duration, and demographics. Built predictive models (Prophet, ARIMA) and designed an interactive Power BI dashboard with storytelling and recommendations.
 
-⚙️ Tech Stack
+⚙️ Tech Stack:
 
 Python: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Prophet
 
@@ -11,7 +11,7 @@ Visualization: Power BI
 
 Dataset: Synthetic (hospital_processed_with_forecasts.csv)
 
-📊 Key Insights
+📊 Key Insights:
 
 Total Admissions: 1,787
 
@@ -25,7 +25,7 @@ High-load Depts: Cardiology, Orthopedics, Neurology
 
 Prophet model outperformed ARIMA (RMSE 1.7 vs 10.4)
 
-🎯 Recommendations
+🎯 Recommendations:
 
 Allocate resources to Emergency & Surgery
 
@@ -33,7 +33,7 @@ Plan ahead for forecasted patient surge
 
 Improve elderly care capacity (longer stays 60+)
 
-🚀 Future Scope
+🚀 Future Scope:
 
 Apply on real datasets
 
@@ -41,7 +41,7 @@ Deploy on Power BI Service / Cloud
 
 Integrate with SQL for live data
 
-📂 Repo Contents
+📂 Repo Contents:
 
 Minorproject_Notebook.ipynb → Data prep, EDA, forecasting
 
