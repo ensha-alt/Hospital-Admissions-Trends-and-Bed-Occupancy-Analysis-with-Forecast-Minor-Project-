@@ -1,4 +1,5 @@
 🏥 Hospital Admissions Trends & Bed Occupancy Analysis with Forecast
+
 📌 Overview:
 
 Minor project using a synthetic hospital dataset to analyze admissions, bed occupancy, stay duration, and demographics. Built predictive models (Prophet, ARIMA) and designed an interactive Power BI dashboard with storytelling and recommendations.
